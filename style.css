@@ -1,0 +1,24 @@
+/* display: inline  في نفس الخط ..  block تحت بعض .... inline-block في نفس الخط وواخد خواص البلوك */
+
+/* position: fixed ثابت في مكانه رغم تحريك الشاشة */
+/* position: reltaive بيتعامل مع جسم الصفحة وبيتأثر بالشمال واليمين والفوق والتحت */
+/* position: absloute بيتعامل مع اول ريلتيف يشوفه  وبيتأثر بالشمال واليمين والفوق والتحت */
+
+/* FLEX EXPLIAN */
+
+/* flex-dirction الاتجاه: column / column revrse...... row / row  row revrse */
+
+/* flex-wrap الالتفاف: wrap npwrap wrap-revrse */
+
+/* justfiy content بالعرض : center في النص  / flex start في لبداية بالعرض/ flex end في الاحر بالعرض/
+ space-around  حوالين العنصر قبله وبعده / space-between بين العناصر */
+
+/* align-items بالطول : center في النص بس بالطول / stratch مطويلة/
+ flex start في الاول بالطول / flex end في الاخر بالطول*/
+
+/* align content والطول و بالعرض : center في النص  / flex start  في لبداية بالعرض والطول/
+ flex end في الاحر بالعرض/ space-around  حوالين العنصر قبله وبعده / space-between  بين العناصر في العرض والطول */
+
+ /* order ترتيب العناصر بمزاجك */
+ /* flex grow نمو العناصر والقيمة بتاعته 0  */
+ /* flex basis تكبير حجم العنرص بالبكسل  */
